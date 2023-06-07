@@ -1,4 +1,4 @@
-# math-magicians 
+# react_todo_app
 <a name="readme-top"></a>
  # 📗 Table of Contents
 - [📖 About the Project](#about-project)
@@ -21,7 +21,7 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖 math-magician <a name="about-project"></a> 
+# 📖 react_todo_app <a name="about-project"></a> 
  
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -38,7 +38,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
-clone from repository: https://github.com/Enoisong/math-magicians.git
+clone from repository: https://github.com/Enoisong/react_todo_app.git
 
 ```
 cd My-app
@@ -57,7 +57,7 @@ In order to run this project you need to:
 
 ```bash
 ```bash
-$ git clone https://github.com/Enoisong/math-magicians.git
+$ git clone https://github.com/Enoisong/react_todo_app.git
 $ cd my-app
 
 ### Run project
